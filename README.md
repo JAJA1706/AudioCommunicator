@@ -1,2 +1,5 @@
-# AudioCommunicator
-Program for audio communication on Linux system. In collaboration with special114
+﻿# AudioCommunicator
+Low level program for audio communication on Linux system. Implemented using sockets.
+
+# Authors
+Rafał Surdej, Jakub Kowalczyk
